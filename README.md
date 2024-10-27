@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Md Mahedi Hasan</h1>
-<h3 align="center">I am Md Mahedi Hasan. I am a Full Stack Web Developer from Bangladesh with two years of job experience. I generally like to take on new challenges and want to try new things. I love to solve complex problems. I usually use HTML, CSS, Bootstrap, JavaScript, and jQuery for frontend design and PHP, and Laravel for the backend. I am very dedicated to my work. I do my work on time at any cost.</h3>
+<h1 align="center">Assalamu Alaikum 👋,</h1>
+<h3 align="center">
+  I'm <strong>Md Mahedi Hasan</strong>, a <strong>Full Stack Web Developer</strong> from <strong>Bangladesh</strong> with two years of job experience. 
+  I thrive on new challenges and enjoy exploring innovative solutions to complex problems.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmahedi&label=Profile%20views&color=0e75b6&style=flat" alt="itzmahedi" /> </p>
 
