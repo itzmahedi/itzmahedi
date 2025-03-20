@@ -1,6 +1,6 @@
 <h1 align="center">Assalamu Alaikum 👋,</h1>
 <h3 align="center">
-  I'm <strong>Md Mahedi Hasan</strong>, a <strong>Full Stack Web Developer</strong> from <strong>Bangladesh</strong> with two years of job experience. 
+  I'm <strong>Md Mahedi Hasan</strong>, a <strong>Full Stack Web Developer</strong> from <strong>Bangladesh</strong> with three years of job experience. 
   I thrive on new challenges and enjoy exploring innovative solutions to complex problems.
 </h3>
 
